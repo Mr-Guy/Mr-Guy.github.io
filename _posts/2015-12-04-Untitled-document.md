@@ -1,5 +1,5 @@
 ---
-title: This is a test
+title: This is a test of Markdown
 layout: post
 author: jamie.carruthers
 permalink: /untitled-document/
