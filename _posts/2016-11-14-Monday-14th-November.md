@@ -41,7 +41,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Today we were told to work on our blogs on GitHub. But I could not remember my password and when I tried a few wrong passwords GitHub shut me out of the login page and blocked me from the website for 5 minutes, but instead of just blocking me it blocked everybody in my class from logging in. After 5 minutes I reset my password then I worked on my blog. I didn't complete my target of finishing the chapter because I was fixing my </td>
+    <td>Today we were told to work on our blogs on GitHub. But I could not remember my password and when I tried a few wrong passwords GitHub shut me out of the login page and blocked me from the website for 5 minutes, but instead of just blocking me it blocked everybody in my class from logging in. After 5 minutes I reset my password then I worked on my blog. I didn't complete my target of finishing the chapter because I was fixing my blog. </td>
   </tr>
   <tr>
     <td></td>
